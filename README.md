@@ -1,1 +1,1 @@
-# Credit-Card-Fraud-Detection-Machine-Learning
+# Machine Learning Projects
